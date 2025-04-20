@@ -1,5 +1,5 @@
 # Physically Realizable Natural-looking Clothing Textures Evade Person Detectors via 3D Modeling (Supplementary Method)
-Here is the [main](https://github.com/WhoTHU/Adversarial_camou) repo.
+[Here](https://github.com/WhoTHU/Adversarial_camou) is the main repo.
 
 # Zipping method for processing meshes
 
@@ -12,11 +12,10 @@ Zipping is a continuous transformation from **geometrically plausible projection
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="readme_figs/movie1.gif" alt="movie1" width="30%" style="margin: 0 10px;"/>
-  <img src="readme_figs/movie2.gif" alt="movie2" width="30%" style="margin: 0 10px;"/>
-  <img src="readme_figs/movie3.gif" alt="movie3" width="30%" style="margin: 0 10px;"/>
+  <img src="readme_figs/movie1.gif" alt="Movie 1" style="width: 30%;"/>
+  <img src="readme_figs/movie2.gif" alt="Movie 2" style="width: 30%;"/>
+  <img src="readme_figs/movie3.gif" alt="Movie 3" style="width: 40%;"/>
 </div>
-
 <!-- toc -->
 #### 1. Requirements
 All the codes are tested in the following environment:
