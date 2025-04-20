@@ -12,9 +12,9 @@ Zipping is a continuous transformation from **geometrically plausible projection
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="readme_figs/movie1.gif" alt="Movie 1" style="width: 27%;"/>
-  <img src="readme_figs/movie2.gif" alt="Movie 2" style="width: 27%;"/>
-  <img src="readme_figs/movie3.gif" alt="Movie 3" style="width: 37%;"/>
+  <img src="readme_figs/movie1.gif" alt="Movie 1" width="33%"/>
+  <img src="readme_figs/movie2.gif" alt="Movie 2" width="33%"/>
+  <img src="readme_figs/movie3.gif" alt="Movie 3" width="33%"/>
 </div>
 
 <!-- toc -->
